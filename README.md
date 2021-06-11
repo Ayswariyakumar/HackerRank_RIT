@@ -1,3 +1,3 @@
 # HackerRank_RIT
 My first step towards programming...
-This contains some basic programs
+This contains some basics of C programming
